@@ -1,3 +1,5 @@
+import { header } from "../header/header.js";
+
 function proyectos(){
 
     let section = document.createElement('section');
@@ -10,21 +12,7 @@ function proyectos(){
 
 //Función header
 
-function header(){
-    let div = document.createElement('div');
-    div.className = "header";
 
-    let h2 = document.createElement('h2');
-    h2.innerHTML = "Proyectos"
-    div.appendChild(h2);
-
-    let btn = document.createElement('div')
-    btn.innerHTML = "GitHub"
-    div.appendChild(btn);
-
-   return div;
-  
-}
 //Item lista
 
 function lista(){
