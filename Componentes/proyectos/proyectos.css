@@ -1,7 +1,7 @@
 .section-header {
     padding: 0.5rem;
-}
 
+}
 .div-item {
     border-bottom: 1px solid gray;
     padding: 1rem;
@@ -13,7 +13,6 @@
 .Link-github-page {
     text-decoration: none;
 }
-
 .btn-github{
     width: 100%;
     max-width: 8rem;
@@ -21,7 +20,6 @@
     color: white;
     padding: 0.5rem 0.5rem;
     border-radius: 3px;
-
     display: flex;
     align-items: center;
     justify-content: center;
