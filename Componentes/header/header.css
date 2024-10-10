@@ -12,11 +12,13 @@
     font-size: 2rem;
 }
 
-.header div {
+.header a {
     background-color: black;
     color: wheat;
     padding: 0.5rem 1rem;
     border-radius: 3px;
     font-size: 1.4rem;
     font-weight: 900;
+
+    text-decoration: none;
 }

@@ -1,0 +1,51 @@
+.menul {
+   display: grid;
+   width: 25rem;
+   height: 25rem;
+   gap: 1rem;
+   margin-top: 5rem;
+
+   grid-template-columns: 1fr;
+   grid-template-rows: repeat(6, 1fr);
+
+}
+
+.Ch1 {
+   border: 2px solid rgb(197, 197, 197);
+   text-align: center;
+   border-radius: 2px;
+}
+
+.Ch2 {
+   border: 2px solid rgb(197, 197, 197);
+   text-align: center;
+   border-radius: 2px;
+}
+
+.Ch3 {
+   border: 2px solid rgb(197, 197, 197);
+   text-align: center;
+   border-radius: 2px;
+}
+
+.Ch4 {
+   border: 2px solid rgb(197, 197, 197);
+   text-align: center;
+   border-radius: 2px;
+}
+
+.Ch5 {
+   border: 2px solid rgb(197, 197, 197);
+   text-align: center;
+   border-radius: 2px;
+}
+
+.Ch6{
+   border: 2px solid rgb(197, 197, 197);
+   text-align: center;
+   border-radius: 2px;
+}
+
+.menull {
+   background-color: blue;
+}

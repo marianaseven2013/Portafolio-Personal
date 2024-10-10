@@ -6,8 +6,9 @@ function header(){
     h2.innerHTML = "Proyectos"
     div.appendChild(h2);
 
-    let btn = document.createElement('div')
+    let btn = document.createElement('a')
     btn.innerHTML = "GitHub"
+    btn.href = "https://github.com/marianaseven2013/"
     div.appendChild(btn);
 
    return div;
